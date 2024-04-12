@@ -7,4 +7,3 @@ public class DairyProduct extends Product {
         super(name, price, new BigDecimal("0.08"));
     }
 }
-
